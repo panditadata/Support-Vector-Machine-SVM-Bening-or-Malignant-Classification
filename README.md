@@ -8,6 +8,7 @@ Load Dataset Use pandas to load the dataset into a DataFrame, either from a loca
 Inspect the first few rows of the DataFrame using df.head() to understand the data structure.
 
 Explore the Dataset Use df.info() to check the data types and look for missing values. Generate summary statistics with df.describe() to understand feature distributions and identify any outliers.
+<a href="#" class="image featured"><img src="" alt="" /></a>
 
 Preprocess the Data Handle any missing values through imputation or removal as necessary. Standardize the feature values using StandardScaler to ensure they are on a similar scale, which is crucial for SVM performance.
 
