@@ -3,7 +3,7 @@ Classification of samples: benign or malignant, using Support Vector Machines (S
 Summary
 Import Libraries Import essential libraries for data manipulation and visualization, such as pandas, numpy, and matplotlib. Import libraries specific to machine learning, including sklearn modules for model training, evaluation, and preprocessing.
 
-Load Dataset Use pandas to load the dataset into a DataFrame, either from a local file or a URL. In this case, downloaded from URL https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
+Load Dataset Use pandas to load the dataset into a DataFrame, either from a local file or a URL. 
 
 Inspect the first few rows of the DataFrame using df.head() to understand the data structure.
 
